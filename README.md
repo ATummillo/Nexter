@@ -1,6 +1,6 @@
 # Nexter
 
-![Image](https://drive.google.com/uc?export=view&id=1IXoYQtKTVkKgu6rZrWQw-6WSeNZxNY1l)
+![Project Image](./assets/img/nexter_README.png)
 
 > This project focusses on CSS Grid Layouts.
 
